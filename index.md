@@ -23,4 +23,4 @@ layout: default
 
 | Game         | Build             | Status|
 |:-------------|:------------------|:------|
-| GTA5         | 1.0.3095.0        | Runs  |
+| GTA5         | 1.0.3095.0        | ![Runs](https://img.shields.io/badge/Runs-brightgreen)  |
